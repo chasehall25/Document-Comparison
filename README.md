@@ -33,8 +33,3 @@ This project is designed to **automate the comparison of legal documents** using
 🔹 **Improve OCR Accuracy** using AI-based text recognition.  
 🔹 **Expand LLM Integration** for automated document classification.  
 🔹 **Enhance Bluebeam Automation** for real-time visual overlays.  
-
----
-### 👨‍💻 Author: Sarvesh S. (https://github.com/Sarvesh-Eng)  
-⭐ **Star this repo if you found it useful!**
-
